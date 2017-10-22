@@ -1,2 +1,4 @@
 # Python-for-Finance-Repo
-Private Repo for Financial Analysis Course
+
+
+Repository for sutdying Financial Analysis using Python programming language
