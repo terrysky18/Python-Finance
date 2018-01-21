@@ -5,6 +5,6 @@ Repository for sutdying Financial Analysis using Python programming language
 
 In Windows PowerShell, use
 
-jupyter notebook
+To create anaconda virtual environment:  conda create -n pyfinance -f environment.yml
 
-to initiate the jupyter server
+To initiate the jupyter server:  jupyter notebook
